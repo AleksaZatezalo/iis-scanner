@@ -1,11 +1,3 @@
 # Clippy The IIS Scanner
 
-## Technical Overview
-
-## Install Instructions
-
-## Contributing Guidelines
-
-## Known Issuess
-
-## References
+Clippy the IIS Scanner is a simple vulnerability scanner for low-hanging Microsoft vulnerabilities. It is made using async programing.
